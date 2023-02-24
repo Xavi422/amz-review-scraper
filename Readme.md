@@ -2,7 +2,7 @@
 
 ## Description
 
-The idea for this project stems from wanting to learn how to scrape data programmatically combined with finding the best flavour of a protein powder to try.
+The idea for this project stems from wanting to learn how to scrape data programmatically combined with finding the best flavour of a protein bar to try.
 
 Functionality: Scrapes all amazon product reviews from verified purchasers of a particular Amazon product and outputs to json file.
 
