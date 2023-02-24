@@ -18,6 +18,7 @@ Methodology:
 Notes:
 
 * Foreign review titles are not links and not stored in a tags
+* Chose not to remove stopwords since they provide context in sentiment analysis
 
 License:
 
@@ -25,7 +26,9 @@ License:
 
 ### Sentiment Analysis
 
-- Determine what flavour of a product is preferred.
-- Determine sentiments regarding specific characteristics of a product e.g. consistency, colour
+* Determine what flavour of a product is preferred.
 
+## Possible improvements
+
+* Filter for reviews with words relating to taste e.g. "flavour", "tasty", "delicious"
 
