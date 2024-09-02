@@ -6,7 +6,7 @@ The idea for this project stems from wanting to learn how to scrape data program
 
 Functionality: Scrapes all amazon product reviews from verified purchasers of a particular Amazon product and outputs to json file.
 
-Tools: BeautifulSoup, requests, urrllib.parse
+Tools: BeautifulSoup, requests
 
 Methodology:
 
